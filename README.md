@@ -1,4 +1,5 @@
 # learning-about-version-control
+<b>
 by: Jackson Lu
 <b>
 Learning about Version Control
